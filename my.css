@@ -1,0 +1,27 @@
+
+.card{
+    height: 488px;
+    width: 400px;
+    border: 2px black solid;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: -50px;
+    padding: 10px;
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+ 
+h3,p{
+    transform: translateX(10px);
+}
+p{
+    margin-top: -5px;
+    
+}
+
+#pets {
+    display: flex;
+    justify-content: space-evenly;
+  }
